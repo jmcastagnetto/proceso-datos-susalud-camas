@@ -1,7 +1,5 @@
-**Fuente**:
-<a href="http://datos.susalud.gob.pe/dataset" class="uri">http://datos.susalud.gob.pe/dataset</a>
-
-**Dataset**:
+**Fuente**: “Data histórica del Registro de Camas diarias disponibles y
+ocupadas del formato F500.2”
 <a href="http://datos.susalud.gob.pe/dataset/data-hist%C3%B3rica-del-registro-de-camas-diarias-disponibles-y-ocupadas-del-formato-f5002" class="uri">http://datos.susalud.gob.pe/dataset/data-hist%C3%B3rica-del-registro-de-camas-diarias-disponibles-y-ocupadas-del-formato-f5002</a>
 
 Reporte rápido de datos

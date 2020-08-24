@@ -22,9 +22,7 @@ library(extrafont)
 susalud_camas <- readRDS("datos/reporte_camas_aumentado.rds")
 ```
 
-**Fuente**: http://datos.susalud.gob.pe/dataset
-
-**Dataset**: http://datos.susalud.gob.pe/dataset/data-hist%C3%B3rica-del-registro-de-camas-diarias-disponibles-y-ocupadas-del-formato-f5002
+**Fuente**: "Data histórica del Registro de Camas diarias disponibles y ocupadas del formato F500.2" http://datos.susalud.gob.pe/dataset/data-hist%C3%B3rica-del-registro-de-camas-diarias-disponibles-y-ocupadas-del-formato-f5002
 
 
 ## Reporte rápido de datos
@@ -32,4 +30,3 @@ susalud_camas <- readRDS("datos/reporte_camas_aumentado.rds")
 ```{r echo=FALSE}
 skim(susalud_camas, -correlativo)
 ```
-
