@@ -1,0 +1,35 @@
+---
+title: "Datos abiertos de camas (SUSALUD)"
+author: "Grupo Prospectiva"
+date: "`r Sys.Date()`"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+geometry: 
+  - paperwidth=297mm
+  - paperheight=210mm
+  - margin=10mm
+fontsize: 10pt
+mainfont: DejaVu Sans
+font-family: Arial
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(skimr)
+library(extrafont)
+susalud_camas <- readRDS("datos/reporte_camas_aumentado.rds")
+```
+
+**Fuente**: http://datos.susalud.gob.pe/dataset
+
+**Dataset**: http://datos.susalud.gob.pe/dataset/data-hist%C3%B3rica-del-registro-de-camas-diarias-disponibles-y-ocupadas-del-formato-f5002
+
+
+## Reporte rápido de datos
+
+```{r echo=FALSE}
+skim(susalud_camas, -correlativo)
+```
+
