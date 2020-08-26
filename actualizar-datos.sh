@@ -2,5 +2,15 @@
 
 wget -O -  http://datos.susalud.gob.pe/node/223/download | sed -e 's/HOSPITAL DE APOYO II - 2, SULLANA/"HOSPITAL DE APOYO II - 2, SULLANA"/' > datos/reporte_camas.csv 
 
-Rscript proc-inicial.R
-Rscript build-readme.R
+# revisar si el archivo descargado a cambiado
+sha1sum --status -c sha1sum-orig.txt
+
+if [ $? -eq 0 ]
+then
+	echo "Archivo de datos no ha cambiado"
+else
+	echo "Procesando los datos"
+	Rscript proc-inicial.R
+	Rscript build-readme.R
+	sha1sum datos/reporte_camas.csv > sha1sum-orig.txt
+fi
