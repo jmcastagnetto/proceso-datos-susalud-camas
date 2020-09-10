@@ -1,6 +1,5 @@
 ---
 title: "Datos abiertos de camas (SUSALUD)"
-author: "Grupo Prospectiva"
 date: "`r Sys.Date()`"
 output: 
   pdf_document:
