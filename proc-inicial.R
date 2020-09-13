@@ -30,7 +30,8 @@ susalud_camas <- raw %>%
     dia_semana = lubridate::wday(fecha_corte,
                                  label = TRUE, abbr = FALSE,
                                  locale = "es_PE.utf8"),
-    epi_week = lubridate::epiweek(fecha_corte)
+    epi_week = lubridate::epiweek(fecha_corte),
+    fecha_registro = lubridate::ymd(fecha_registro)
   ) %>%
   mutate_if(
     is.character,
