@@ -626,36 +626,17 @@ Reporte rápido de datos
 Evolución del número de camas disponibles
 -----------------------------------------
 
-    ## `summarise()` ungrouping output (override with `.groups` argument)
-
-    ## `geom_smooth()` using formula 'y ~ s(x, bs = "cs")'
-
 ![Número de camas totales a nivel
 nacional](plots/camas-totales-nacional.png)
 
 Cambio en el uso porcentual de camas en zona COVID-19 a nivel nacional
 ----------------------------------------------------------------------
 
-    ## `summarise()` regrouping output by 'fecha_corte' (override with `.groups` argument)
-
-    ## `mutate_if()` ignored the following grouping variables:
-    ## Column `fecha_corte`
-
-    ## `geom_smooth()` using formula 'y ~ s(x, bs = "cs")'
-
-    ## Warning: Removed 2 rows containing non-finite values (stat_smooth).
-
-    ## Warning: Removed 2 rows containing missing values (geom_point).
-
 ![Porcentaje de ocupación de camas en zona
 COVID-19](plots/pct-ocupacion-zona-covid.png)
 
 Cambio porcentual en el uso de Ventiladores UCI en zona COVID-19
 ----------------------------------------------------------------
-
-    ## `summarise()` regrouping output by 'fecha_corte' (override with `.groups` argument)
-
-    ## `geom_smooth()` using formula 'y ~ s(x, bs = "cs")'
 
 ![Uso de ventiladores por
 Departamento](plots/pct-uso-ventiladores-departamento.png)
