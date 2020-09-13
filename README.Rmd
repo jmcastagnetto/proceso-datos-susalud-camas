@@ -125,7 +125,7 @@ ggsave(
 ![Porcentaje de ocupación de camas en zona COVID-19 ](plots/pct-ocupacion-zona-covid.png)
 
 
-## Cambio porcentual en el uso de Ventiladores UCI en zona COVID-19
+## Cambios en el uso de Ventiladores UCI en zona COVID-19
 
 
 ```{r}
