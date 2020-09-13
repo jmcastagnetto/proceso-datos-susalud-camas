@@ -635,8 +635,8 @@ Cambio en el uso porcentual de camas en zona COVID-19 a nivel nacional
 ![Porcentaje de ocupación de camas en zona
 COVID-19](plots/pct-ocupacion-zona-covid.png)
 
-Cambios en el uso de Ventiladores UCI en zona COVID-19
-------------------------------------------------------
+Cambios en la cantidad de ventiladores UCI en zona COVID-19
+-----------------------------------------------------------
 
-![Uso de ventiladores por
-Departamento](plots/pct-uso-ventiladores-departamento.png)
+![Número de ventiladores por
+Departamento](plots/uso-ventiladores-departamento.png)

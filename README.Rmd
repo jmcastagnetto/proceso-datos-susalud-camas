@@ -125,7 +125,7 @@ ggsave(
 ![Porcentaje de ocupación de camas en zona COVID-19 ](plots/pct-ocupacion-zona-covid.png)
 
 
-## Cambios en el uso de Ventiladores UCI en zona COVID-19
+## Cambios en la cantidad de ventiladores UCI en zona COVID-19
 
 
 ```{r}
@@ -150,9 +150,9 @@ p3 <- ggplot(df,
        aes(x = fecha_corte, y = ventiladores, 
            group = uso, color = uso)) +
   geom_point(size = .2) +
-  geom_smooth(method = "gam") +
+  geom_smooth(method = "gam", se = FALSE) +
   labs(
-    title = "Uso de Ventiladores por Departamento",
+    title = "Número de Ventiladores por Departamento",
     subtitle = "Fuente: SUSALUD (http://bit.ly/susalud_camas). Aproximación GAM: y ~ s(x, bs = \"cs\")",
     caption = paste0("Actualizado el ", Sys.Date(), " // @jmcastagnetto, Jesus M. Castagnetto"),
     x = "",
@@ -167,10 +167,10 @@ p3 <- ggplot(df,
 
 ggsave(
   plot = p3,
-  filename = "plots/pct-uso-ventiladores-departamento.png",
+  filename = "plots/uso-ventiladores-departamento.png",
   width = 12,
   height = 9
 )
 ```
 
-![Uso de ventiladores por Departamento](plots/pct-uso-ventiladores-departamento.png)
+![Número de ventiladores por Departamento](plots/uso-ventiladores-departamento.png)
