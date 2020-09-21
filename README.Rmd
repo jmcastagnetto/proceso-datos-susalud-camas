@@ -22,6 +22,7 @@ susalud_camas <- readRDS("datos/reporte_camas_aumentado.rds")
 ## Notas
 
 - **2020-09-13** Los datos ahora incluyen in campo extra `fecha_registro`
+- 2020-09-21 Algunos registros no tienen región/departamento asignados
 
 ## Reporte rápido de datos
 
@@ -33,6 +34,7 @@ skim(susalud_camas, -correlativo)
 
 ```{r}
 df <- susalud_camas %>% 
+  filter(region != "-") %>%
   group_by(fecha_corte) %>% 
   summarise(
     Zona_COVID = sum(camas_zc_total, na.rm = TRUE),
@@ -87,7 +89,8 @@ ggsave(
 ## Cambio en el uso porcentual de camas en zona COVID-19 a nivel nacional
 
 ```{r}
-df <- susalud_camas %>%
+df <- susalud_camas %>% 
+  filter(region != "-") %>%
   group_by(fecha_corte, institucion) %>%
   summarise(
     pct_zn_ocu = sum(camas_zc_ocupados)/sum(camas_zc_total)
@@ -130,6 +133,7 @@ ggsave(
 
 ```{r}
 df <- susalud_camas %>% 
+  filter(region != "-") %>%
   group_by(fecha_corte, region) %>% 
   summarise(
     Disponibles = sum(ventiladores_uci_zc_disponible, na.rm = TRUE),
