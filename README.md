@@ -21,7 +21,7 @@ Reporte rápido de datos
 </tr>
 <tr class="even">
 <td style="text-align: left;">Number of rows</td>
-<td style="text-align: left;">117584</td>
+<td style="text-align: left;">75013</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Number of columns</td>
@@ -78,18 +78,18 @@ Reporte rápido de datos
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">2020-04-07</td>
-<td style="text-align: left;">2020-11-27</td>
+<td style="text-align: left;">2020-11-29</td>
 <td style="text-align: left;">2020-08-15</td>
-<td style="text-align: right;">235</td>
+<td style="text-align: right;">237</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">fecha_registro</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">2020-04-07</td>
-<td style="text-align: left;">2020-11-27</td>
-<td style="text-align: left;">2020-08-11</td>
-<td style="text-align: right;">235</td>
+<td style="text-align: left;">2020-11-29</td>
+<td style="text-align: left;">2020-08-13</td>
+<td style="text-align: right;">237</td>
 </tr>
 </tbody>
 </table>
@@ -114,7 +114,7 @@ Reporte rápido de datos
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">TRUE</td>
 <td style="text-align: right;">8</td>
-<td style="text-align: left;">oct: 17428, ago: 16898, set: 16711, jul: 16282</td>
+<td style="text-align: left;">oct: 10839, ago: 10744, set: 10504, jul: 10427</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">dia_semana</td>
@@ -122,79 +122,79 @@ Reporte rápido de datos
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">TRUE</td>
 <td style="text-align: right;">7</td>
-<td style="text-align: left;">vie: 17080, jue: 16999, mié: 16901, mar: 16788</td>
+<td style="text-align: left;">dom: 10848, sáb: 10803, vie: 10779, jue: 10743</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">institucion</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: left;">Pri: 52606, Gob: 34167, EsS: 21708, MIN: 6301</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: left;">Gob: 32348, EsS: 20039, Pri: 14911, MIN: 5722</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ubigeo</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
-<td style="text-align: right;">223</td>
-<td style="text-align: left;">130: 3643, 150: 3421, 150: 2968, 150: 2921</td>
+<td style="text-align: right;">217</td>
+<td style="text-align: left;">150: 1996, 130: 1742, 150: 1475, 040: 1354</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">region</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
-<td style="text-align: right;">26</td>
-<td style="text-align: left;">LIM: 40940, LA : 10296, ARE: 5921, JUN: 5504</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: left;">LIM: 20232, LA : 7602, ARE: 3847, JUN: 3824</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">provincia</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
-<td style="text-align: right;">129</td>
-<td style="text-align: left;">LIM: 37622, TRU: 6707, ARE: 4784, CUS: 3310</td>
+<td style="text-align: right;">127</td>
+<td style="text-align: left;">LIM: 17817, TRU: 4167, ARE: 2745, CUS: 1993</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">distrito</td>
-<td style="text-align: right;">26</td>
+<td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
-<td style="text-align: right;">217</td>
-<td style="text-align: left;">TRU: 3643, LIM: 3421, SAN: 2968, MIR: 2921</td>
+<td style="text-align: right;">214</td>
+<td style="text-align: left;">LIM: 1996, TRU: 1742, SAN: 1475, SAN: 1355</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">categoria</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: left;">II-: 46776, II-: 30363, II-: 18443, III: 7840</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: left;">II-: 33722, II-: 16625, III: 7808, II-: 6261</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">codigo</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
-<td style="text-align: right;">576</td>
-<td style="text-align: left;">000: 235, 000: 235, 000: 235, 000: 235</td>
+<td style="text-align: right;">384</td>
+<td style="text-align: left;">000: 237, 000: 237, 000: 237, 000: 237</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">nombre</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
-<td style="text-align: right;">582</td>
-<td style="text-align: left;">CLI: 464, CLU: 436, OFT: 320, CHE: 235</td>
+<td style="text-align: right;">389</td>
+<td style="text-align: left;">CLU: 440, CLI: 237, CLI: 237, CLI: 237</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">zona_covid</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
-<td style="text-align: right;">2</td>
-<td style="text-align: left;">Si: 74308, No: 43276</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">Si: 75013</td>
 </tr>
 </tbody>
 </table>
@@ -222,25 +222,25 @@ Reporte rápido de datos
 <td style="text-align: left;">epi_week</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">33.09</td>
-<td style="text-align: right;">9.08</td>
+<td style="text-align: right;">33.15</td>
+<td style="text-align: right;">9.16</td>
 <td style="text-align: right;">15</td>
 <td style="text-align: right;">25</td>
 <td style="text-align: right;">33</td>
 <td style="text-align: right;">41</td>
-<td style="text-align: right;">48</td>
-<td style="text-align: left;">▅▇▆▇▇</td>
+<td style="text-align: right;">49</td>
+<td style="text-align: left;">▅▇▇▇▇</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">camas_zc_ocupados</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">2.22</td>
-<td style="text-align: right;">8.23</td>
+<td style="text-align: right;">3.50</td>
+<td style="text-align: right;">10.13</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">0</td>
+<td style="text-align: right;">3</td>
 <td style="text-align: right;">135</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -248,8 +248,8 @@ Reporte rápido de datos
 <td style="text-align: left;">camas_zc_disponibles</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.49</td>
-<td style="text-align: right;">1.59</td>
+<td style="text-align: right;">0.78</td>
+<td style="text-align: right;">1.95</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -261,12 +261,12 @@ Reporte rápido de datos
 <td style="text-align: left;">camas_zc_total</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">2.71</td>
-<td style="text-align: right;">8.64</td>
+<td style="text-align: right;">4.28</td>
+<td style="text-align: right;">10.56</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">2</td>
+<td style="text-align: right;">5</td>
 <td style="text-align: right;">135</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -274,12 +274,12 @@ Reporte rápido de datos
 <td style="text-align: left;">camas_znc_ocupados</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">16.57</td>
-<td style="text-align: right;">64.31</td>
+<td style="text-align: right;">26.08</td>
+<td style="text-align: right;">78.99</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">0</td>
-<td style="text-align: right;">9</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">20</td>
 <td style="text-align: right;">1609</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -287,12 +287,12 @@ Reporte rápido de datos
 <td style="text-align: left;">camas_znc_disponible</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">13.08</td>
-<td style="text-align: right;">46.28</td>
+<td style="text-align: right;">20.81</td>
+<td style="text-align: right;">56.98</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">0</td>
-<td style="text-align: right;">0</td>
-<td style="text-align: right;">9</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">16</td>
 <td style="text-align: right;">2419</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -300,12 +300,12 @@ Reporte rápido de datos
 <td style="text-align: left;">camas_znc_total</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">29.66</td>
-<td style="text-align: right;">97.47</td>
+<td style="text-align: right;">46.90</td>
+<td style="text-align: right;">118.99</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">0</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: right;">20</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">41</td>
 <td style="text-align: right;">2563</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -313,12 +313,12 @@ Reporte rápido de datos
 <td style="text-align: left;">uci_adultos_camas_ocupadas</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.81</td>
-<td style="text-align: right;">2.29</td>
+<td style="text-align: right;">1.14</td>
+<td style="text-align: right;">2.72</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">0</td>
+<td style="text-align: right;">1</td>
 <td style="text-align: right;">230</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -326,12 +326,12 @@ Reporte rápido de datos
 <td style="text-align: left;">uci_adultos_camas_disponible</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.48</td>
-<td style="text-align: right;">1.32</td>
+<td style="text-align: right;">0.66</td>
+<td style="text-align: right;">1.54</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">0</td>
+<td style="text-align: right;">1</td>
 <td style="text-align: right;">57</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -339,12 +339,12 @@ Reporte rápido de datos
 <td style="text-align: left;">uci_adultos_camas_total</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">1.29</td>
-<td style="text-align: right;">2.92</td>
+<td style="text-align: right;">1.80</td>
+<td style="text-align: right;">3.41</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">2</td>
+<td style="text-align: right;">3</td>
 <td style="text-align: right;">230</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -352,8 +352,8 @@ Reporte rápido de datos
 <td style="text-align: left;">uci_pediatria_camas_ocupadas</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.34</td>
-<td style="text-align: right;">2.55</td>
+<td style="text-align: right;">0.54</td>
+<td style="text-align: right;">3.19</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -365,8 +365,8 @@ Reporte rápido de datos
 <td style="text-align: left;">uci_pediatria_camas_disponible</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.18</td>
-<td style="text-align: right;">0.87</td>
+<td style="text-align: right;">0.25</td>
+<td style="text-align: right;">1.04</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -378,8 +378,8 @@ Reporte rápido de datos
 <td style="text-align: left;">uci_pediatria_camas_total</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.52</td>
-<td style="text-align: right;">2.97</td>
+<td style="text-align: right;">0.79</td>
+<td style="text-align: right;">3.69</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -391,8 +391,8 @@ Reporte rápido de datos
 <td style="text-align: left;">ucin_camas_ocupadas</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.91</td>
-<td style="text-align: right;">4.69</td>
+<td style="text-align: right;">1.38</td>
+<td style="text-align: right;">5.82</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -404,8 +404,8 @@ Reporte rápido de datos
 <td style="text-align: left;">ucin_camas_disponible</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.42</td>
-<td style="text-align: right;">1.96</td>
+<td style="text-align: right;">0.61</td>
+<td style="text-align: right;">2.41</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -417,8 +417,8 @@ Reporte rápido de datos
 <td style="text-align: left;">ucin_camas_total</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">1.33</td>
-<td style="text-align: right;">6.18</td>
+<td style="text-align: right;">1.99</td>
+<td style="text-align: right;">7.65</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -430,12 +430,12 @@ Reporte rápido de datos
 <td style="text-align: left;">camas_hosp_ocupadas</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">24.66</td>
-<td style="text-align: right;">64.06</td>
+<td style="text-align: right;">35.07</td>
+<td style="text-align: right;">77.73</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">1</td>
-<td style="text-align: right;">6</td>
-<td style="text-align: right;">21</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">34</td>
 <td style="text-align: right;">1418</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -443,12 +443,12 @@ Reporte rápido de datos
 <td style="text-align: left;">camas_hosp_disponible</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">24.85</td>
-<td style="text-align: right;">47.29</td>
+<td style="text-align: right;">33.83</td>
+<td style="text-align: right;">56.32</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">26</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">38</td>
 <td style="text-align: right;">4052</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -456,12 +456,12 @@ Reporte rápido de datos
 <td style="text-align: left;">camas_hosp_total</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">49.51</td>
-<td style="text-align: right;">97.07</td>
+<td style="text-align: right;">68.90</td>
+<td style="text-align: right;">115.84</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">20</td>
-<td style="text-align: right;">47</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">73</td>
 <td style="text-align: right;">4100</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -469,12 +469,12 @@ Reporte rápido de datos
 <td style="text-align: left;">ventiladores_uci_zc_ocupados</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">2.24</td>
-<td style="text-align: right;">8.25</td>
+<td style="text-align: right;">3.53</td>
+<td style="text-align: right;">10.14</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">0</td>
+<td style="text-align: right;">3</td>
 <td style="text-align: right;">135</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -482,12 +482,12 @@ Reporte rápido de datos
 <td style="text-align: left;">ventiladores_uci_zc_disponible</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.59</td>
-<td style="text-align: right;">1.78</td>
+<td style="text-align: right;">0.94</td>
+<td style="text-align: right;">2.18</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">0</td>
+<td style="text-align: right;">1</td>
 <td style="text-align: right;">45</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -495,12 +495,12 @@ Reporte rápido de datos
 <td style="text-align: left;">ventiladores_uci_zc_total</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">2.83</td>
-<td style="text-align: right;">8.75</td>
+<td style="text-align: right;">4.47</td>
+<td style="text-align: right;">10.67</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">2</td>
+<td style="text-align: right;">5</td>
 <td style="text-align: right;">135</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -508,12 +508,12 @@ Reporte rápido de datos
 <td style="text-align: left;">ventiladores_uci_adulto_ocupados</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.62</td>
-<td style="text-align: right;">2.06</td>
+<td style="text-align: right;">0.88</td>
+<td style="text-align: right;">2.48</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">0</td>
+<td style="text-align: right;">1</td>
 <td style="text-align: right;">230</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -521,12 +521,12 @@ Reporte rápido de datos
 <td style="text-align: left;">ventiladores_uci_adulto_disponible</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.46</td>
-<td style="text-align: right;">1.33</td>
+<td style="text-align: right;">0.62</td>
+<td style="text-align: right;">1.55</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">0</td>
+<td style="text-align: right;">1</td>
 <td style="text-align: right;">57</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -534,12 +534,12 @@ Reporte rápido de datos
 <td style="text-align: left;">ventiladores_uci_adulto_total</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">1.08</td>
-<td style="text-align: right;">2.70</td>
+<td style="text-align: right;">1.50</td>
+<td style="text-align: right;">3.17</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">1</td>
+<td style="text-align: right;">2</td>
 <td style="text-align: right;">230</td>
 <td style="text-align: left;">▇▁▁▁▁</td>
 </tr>
@@ -547,8 +547,8 @@ Reporte rápido de datos
 <td style="text-align: left;">ventiladores_uci_pediatria_ocupados</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.27</td>
-<td style="text-align: right;">2.22</td>
+<td style="text-align: right;">0.42</td>
+<td style="text-align: right;">2.78</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -560,8 +560,8 @@ Reporte rápido de datos
 <td style="text-align: left;">ventiladores_uci_pediatria_disponible</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.15</td>
-<td style="text-align: right;">0.82</td>
+<td style="text-align: right;">0.21</td>
+<td style="text-align: right;">0.98</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -573,8 +573,8 @@ Reporte rápido de datos
 <td style="text-align: left;">ventiladores_uci_pediatria_total</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.42</td>
-<td style="text-align: right;">2.73</td>
+<td style="text-align: right;">0.63</td>
+<td style="text-align: right;">3.41</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -586,8 +586,8 @@ Reporte rápido de datos
 <td style="text-align: left;">ventiladores_ucin_ocupados</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.30</td>
-<td style="text-align: right;">2.07</td>
+<td style="text-align: right;">0.47</td>
+<td style="text-align: right;">2.57</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -599,8 +599,8 @@ Reporte rápido de datos
 <td style="text-align: left;">ventiladores_ucin_disponible</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.15</td>
-<td style="text-align: right;">0.74</td>
+<td style="text-align: right;">0.22</td>
+<td style="text-align: right;">0.90</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -612,8 +612,8 @@ Reporte rápido de datos
 <td style="text-align: left;">ventiladores_ucin_total</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">0.46</td>
-<td style="text-align: right;">2.28</td>
+<td style="text-align: right;">0.69</td>
+<td style="text-align: right;">2.81</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
