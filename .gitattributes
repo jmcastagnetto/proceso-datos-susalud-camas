@@ -1,3 +1,4 @@
+# daff support
 *.csv diff=daff-csv
 *.csv merge=daff-csv
 # some patterns from https://github.com/alexkaratarakis/gitattributes/
