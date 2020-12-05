@@ -21,8 +21,9 @@ susalud_camas <- readRDS("datos/reporte_camas_aumentado.rds")
 
 ## Notas
 
-- **2020-09-13** Los datos ahora incluyen in campo extra `fecha_registro`
-- 2020-09-21 Algunos registros no tienen región/departamento asignados
+- **2020-09-13**: Los datos ahora incluyen in campo extra `fecha_registro`
+- **2020-09-21**: Algunos registros no tienen región/departamento asignados
+- **2020-12-04**: Los datos de hoy tienen 121,600 registros, y los de hace un par de días atras (2020-12-02) eran 76,072. Un aumento de casi el 60% de registros comparando hoy con hace dos días.
 
 ## Reporte rápido de datos
 
