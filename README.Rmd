@@ -23,7 +23,8 @@ susalud_camas <- readRDS("datos/reporte_camas_aumentado.rds")
 
 - **2020-09-13**: Los datos ahora incluyen in campo extra `fecha_registro`
 - **2020-09-21**: Algunos registros no tienen región/departamento asignados
-- **2020-12-04**: Los datos de hoy tienen 121,600 registros, y los de hace un par de días atras (2020-12-02) eran 76,072. Un aumento de casi el 60% de registros comparando hoy con hace dos días.
+- **2020-12-04**: Los datos de hoy tienen 121,600 registros, y los de hace un par de días atras (2020-12-02) eran 76,072. Un aumento de casi el 60% de registros comparando hoy con hace dos días. Parece que los datos posteriores al 2020-11-27 estaban incompletos, y recién se han actualizado en su totalidad.
+- **2020-12-05**: Hoy se detectaron 220 registros con un incorrecto número de columnas, debido a que el nombre de un hospítal contiene una coma y no esta apropiadamente delimitado por comillas (HOSPITAL DE APOYO II - 2, SULLANA)
 
 ## Reporte rápido de datos
 
