@@ -1,6 +1,7 @@
 library(tidyverse)
 
-raw <- read_csv("datos/reporte_camas.csv",
+raw <- read_delim("datos/reporte_camas.csv",
+				delim = "|",  
                 col_types = cols(
                   .default = col_double(),
                   INSTITUCION = col_character(),
