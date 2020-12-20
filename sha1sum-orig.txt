@@ -1,1 +1,1 @@
-b535c0e29065ed836ee12a54c51eb980f796c47c  datos/reporte_camas.csv
+2c4d6a1a01edaef509b95902e796c96f18b87078  datos/reporte_camas.csv
