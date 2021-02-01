@@ -57,7 +57,7 @@ Reporte rápido de datos
 </tr>
 <tr class="even">
 <td style="text-align: left;">Number of rows</td>
-<td style="text-align: left;">155034</td>
+<td style="text-align: left;">155613</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Number of columns</td>
@@ -114,18 +114,18 @@ Reporte rápido de datos
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">2020-04-07</td>
-<td style="text-align: left;">2021-01-31</td>
+<td style="text-align: left;">2021-02-01</td>
 <td style="text-align: left;">2020-09-18</td>
-<td style="text-align: right;">300</td>
+<td style="text-align: right;">301</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">fecha_registro</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">2020-04-07</td>
-<td style="text-align: left;">2021-01-31</td>
-<td style="text-align: left;">2020-09-11</td>
-<td style="text-align: right;">300</td>
+<td style="text-align: left;">2021-02-01</td>
+<td style="text-align: left;">2020-09-12</td>
+<td style="text-align: right;">301</td>
 </tr>
 </tbody>
 </table>
@@ -149,7 +149,7 @@ Reporte rápido de datos
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">TRUE</td>
-<td style="text-align: right;">10</td>
+<td style="text-align: right;">11</td>
 <td style="text-align: left;">ene: 17909, dic: 17822, oct: 17428, nov: 17107</td>
 </tr>
 <tr class="even">
@@ -158,7 +158,7 @@ Reporte rápido de datos
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">TRUE</td>
 <td style="text-align: right;">7</td>
-<td style="text-align: left;">dom: 22354, sáb: 22307, vie: 22271, jue: 22185</td>
+<td style="text-align: left;">lun: 22438, dom: 22354, sáb: 22307, vie: 22271</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">institucion</td>
@@ -166,7 +166,7 @@ Reporte rápido de datos
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
 <td style="text-align: right;">6</td>
-<td style="text-align: left;">Pri: 69770, Gob: 44983, EsS: 28513, MIN: 8121</td>
+<td style="text-align: left;">Pri: 70035, Gob: 45150, EsS: 28619, MIN: 8149</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ubigeo</td>
@@ -174,7 +174,7 @@ Reporte rápido de datos
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
 <td style="text-align: right;">224</td>
-<td style="text-align: left;">130: 4813, 150: 4461, 150: 3943, 150: 3831</td>
+<td style="text-align: left;">130: 4831, 150: 4477, 150: 3958, 150: 3845</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">region</td>
@@ -182,7 +182,7 @@ Reporte rápido de datos
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
 <td style="text-align: right;">25</td>
-<td style="text-align: left;">LIM: 54096, LA : 13481, ARE: 7738, JUN: 7129</td>
+<td style="text-align: left;">LIM: 54299, LA : 13530, ARE: 7766, JUN: 7154</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">provincia</td>
@@ -190,7 +190,7 @@ Reporte rápido de datos
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
 <td style="text-align: right;">129</td>
-<td style="text-align: left;">LIM: 49709, TRU: 8787, ARE: 6214, CUS: 4285</td>
+<td style="text-align: left;">LIM: 49895, TRU: 8819, ARE: 6236, CUS: 4300</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">distrito</td>
@@ -198,7 +198,7 @@ Reporte rápido de datos
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
 <td style="text-align: right;">219</td>
-<td style="text-align: left;">TRU: 4813, LIM: 4461, SAN: 3943, MIR: 3831</td>
+<td style="text-align: left;">TRU: 4831, LIM: 4477, SAN: 3958, MIR: 3845</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">categoria</td>
@@ -206,7 +206,7 @@ Reporte rápido de datos
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
 <td style="text-align: right;">11</td>
-<td style="text-align: left;">II-: 61062, II-: 40633, II-: 23838, III: 10115</td>
+<td style="text-align: left;">II-: 61282, II-: 40791, II-: 23921, III: 10150</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">codigo</td>
@@ -214,7 +214,7 @@ Reporte rápido de datos
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
 <td style="text-align: right;">580</td>
-<td style="text-align: left;">000: 300, 000: 300, 000: 300, 000: 300</td>
+<td style="text-align: left;">000: 301, 000: 301, 000: 301, 000: 301</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">nombre</td>
@@ -222,7 +222,7 @@ Reporte rápido de datos
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
 <td style="text-align: right;">588</td>
-<td style="text-align: left;">CLI: 594, CLI: 582, CLU: 566, OFT: 450</td>
+<td style="text-align: left;">CLI: 596, CLI: 584, CLU: 568, OFT: 452</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">zona_covid</td>
@@ -230,7 +230,7 @@ Reporte rápido de datos
 <td style="text-align: right;">1</td>
 <td style="text-align: left;">FALSE</td>
 <td style="text-align: right;">2</td>
-<td style="text-align: left;">Si: 97285, No: 57749</td>
+<td style="text-align: left;">Si: 97642, No: 57971</td>
 </tr>
 </tbody>
 </table>
@@ -258,8 +258,8 @@ Reporte rápido de datos
 <td style="text-align: left;">epi_week</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">32.17</td>
-<td style="text-align: right;">14.32</td>
+<td style="text-align: right;">32.07</td>
+<td style="text-align: right;">14.39</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">23</td>
 <td style="text-align: right;">34</td>
@@ -298,7 +298,7 @@ Reporte rápido de datos
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">2.73</td>
-<td style="text-align: right;">8.78</td>
+<td style="text-align: right;">8.79</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -310,8 +310,8 @@ Reporte rápido de datos
 <td style="text-align: left;">camas_znc_ocupados</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">15.13</td>
-<td style="text-align: right;">58.51</td>
+<td style="text-align: right;">15.15</td>
+<td style="text-align: right;">58.52</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -323,8 +323,8 @@ Reporte rápido de datos
 <td style="text-align: left;">camas_znc_disponible</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">13.89</td>
-<td style="text-align: right;">46.97</td>
+<td style="text-align: right;">13.88</td>
+<td style="text-align: right;">46.91</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -336,8 +336,8 @@ Reporte rápido de datos
 <td style="text-align: left;">camas_znc_total</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">29.02</td>
-<td style="text-align: right;">91.75</td>
+<td style="text-align: right;">29.04</td>
+<td style="text-align: right;">91.71</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">3</td>
@@ -467,7 +467,7 @@ Reporte rápido de datos
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">24.89</td>
-<td style="text-align: right;">63.19</td>
+<td style="text-align: right;">63.16</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">6</td>
@@ -479,8 +479,8 @@ Reporte rápido de datos
 <td style="text-align: left;">camas_hosp_disponible</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">23.94</td>
-<td style="text-align: right;">45.53</td>
+<td style="text-align: right;">23.93</td>
+<td style="text-align: right;">45.51</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">4</td>
 <td style="text-align: right;">11</td>
@@ -492,8 +492,8 @@ Reporte rápido de datos
 <td style="text-align: left;">camas_hosp_total</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">48.84</td>
-<td style="text-align: right;">95.58</td>
+<td style="text-align: right;">48.82</td>
+<td style="text-align: right;">95.54</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">8</td>
 <td style="text-align: right;">20</td>
@@ -506,7 +506,7 @@ Reporte rápido de datos
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">2.26</td>
-<td style="text-align: right;">8.38</td>
+<td style="text-align: right;">8.39</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -532,7 +532,7 @@ Reporte rápido de datos
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">2.84</td>
-<td style="text-align: right;">8.88</td>
+<td style="text-align: right;">8.89</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
@@ -623,7 +623,7 @@ Reporte rápido de datos
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">0.28</td>
-<td style="text-align: right;">1.88</td>
+<td style="text-align: right;">1.87</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
