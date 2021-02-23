@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # avoid LFS problem
 datos/reporte_camas_aumentado.rds
+
+# do not consider local tests
+tmp/*
